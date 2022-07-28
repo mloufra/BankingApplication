@@ -15,7 +15,7 @@ public class BankingApplication {
         obj1.menu();
     }
 }
-// make another change for master branch
+// make other change for master branch
 class BankAccount{
     int balance;
     String customerName;
